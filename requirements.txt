@@ -4,3 +4,8 @@ langchain
 faiss-cpu
 python-dotenv
 streamlit
+kagglehub
+ipykernel
+chromadb
+langchain_community
+tiktoken
