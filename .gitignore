@@ -3,3 +3,4 @@ __pycache__/
 .env
 chroma_langchain_db
 anaconda_projects
+.gradio
